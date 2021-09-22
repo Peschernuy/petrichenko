@@ -64,7 +64,7 @@ console.log(oldArray);
 
 const video = ['Youtube', 'Vimeo'],
       blogs = ['live', 'blogger'],
-      inetrnet = [...video, ... blogs, 'facebook', 'insta'];
+      inetrnet = [...video, ...blogs, 'facebook', 'insta'];
 
 console.log(inetrnet);
 
